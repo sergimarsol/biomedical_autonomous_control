@@ -1,5 +1,7 @@
-# rUBot_mecanum
-This rubot_mecanum workspace is organized in the following sections:
+# Biomedical Autonomous Control
+This repository contains a project for the control of a biomedical autonomous robot I developed for a Biomedical Systems Control course I took for my Biomedical Engineering Bachelor's.
+
+This workspace is organized in the following sections:
 | Document | Contents   |
 |------|------|
 |   1. rUBot SW Model&Control  | Simulated model and different control actions|
